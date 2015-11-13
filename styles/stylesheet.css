@@ -1,0 +1,90 @@
+
+header h1{
+text-align: center;
+}
+
+
+ul {
+  list-style-type: none;
+  magin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+  
+nav li {
+  width: 13.5%;
+  background-color: darkviolet;
+  border: 1px solid violet;
+  text-align: center;
+  padding: 3px;
+  align-content: left;
+  float: left;  
+}
+
+nav a:link, nav a:visited {
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  display:inline;  
+}
+
+aside {
+  float: left;
+  width:20%;
+  height: 800rem;
+}
+
+aside li {
+  background-color: violet;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+aside a:link, aside a:visited {
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  display: inline;
+}
+
+div {
+  width: 40%;
+  margin-left: auto ;
+  margin-right: auto ;
+  padding: 20px;
+}
+
+#content {
+  width: 90%;
+  margin-left: 20% ;
+  margin-right: 10% ;
+  font-weight: 100;
+  font-style: italic;
+  }
+
+footer li{  
+  display: inline;
+  padding: 20px;
+  float: left;  
+}
+
+footer{
+  float: left;
+  width:50%;
+  margin-left: 20% ;
+}
+
+
+
+
+
+
+
+
+
+
+
+      
